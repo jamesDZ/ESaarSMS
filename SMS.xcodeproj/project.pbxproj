@@ -21,7 +21,6 @@
 		F2395A1F1E88E211004A2FB7 /* FeeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2395A1E1E88E211004A2FB7 /* FeeView.swift */; };
 		F2395A211E88E275004A2FB7 /* AttendanceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2395A201E88E275004A2FB7 /* AttendanceView.swift */; };
 		F2395A231E88E286004A2FB7 /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2395A221E88E286004A2FB7 /* ResultView.swift */; };
-		F287933D1EA7046B00FD038A /* 1492586401_user_manage.png in Resources */ = {isa = PBXBuildFile; fileRef = F287933C1EA7046B00FD038A /* 1492586401_user_manage.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -75,7 +74,6 @@
 		F2395A1E1E88E211004A2FB7 /* FeeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeeView.swift; sourceTree = "<group>"; };
 		F2395A201E88E275004A2FB7 /* AttendanceView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AttendanceView.swift; sourceTree = "<group>"; };
 		F2395A221E88E286004A2FB7 /* ResultView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
-		F287933C1EA7046B00FD038A /* 1492586401_user_manage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1492586401_user_manage.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,7 +124,6 @@
 		F23959E71E88DCB5004A2FB7 /* SMS */ = {
 			isa = PBXGroup;
 			children = (
-				F287933C1EA7046B00FD038A /* 1492586401_user_manage.png */,
 				F23959E81E88DCB5004A2FB7 /* AppDelegate.swift */,
 				F23959EA1E88DCB5004A2FB7 /* ViewController.swift */,
 				F2395A161E88E175004A2FB7 /* LoginView.swift */,
@@ -276,7 +273,6 @@
 				F23959F31E88DCB5004A2FB7 /* LaunchScreen.storyboard in Resources */,
 				F23959F01E88DCB5004A2FB7 /* Assets.xcassets in Resources */,
 				F23959EE1E88DCB5004A2FB7 /* Main.storyboard in Resources */,
-				F287933D1EA7046B00FD038A /* 1492586401_user_manage.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
